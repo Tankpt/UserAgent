@@ -9,4 +9,5 @@ UserAgent
  2. 火狐浏览器在安卓手机端的支持
  3. IE11的支持
  4. Opera浏览器在Opera 15之后放弃自家的浏览内核Prestro引擎，奔向了WebKit之后的一点识别问题
+ 5. 添加了对win8 和win8.1的支持
 

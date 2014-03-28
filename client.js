@@ -124,6 +124,12 @@ var client = function(){
                     case "6.1":
                         system.win = "7";
                         break;
+                    case "6.2":
+                        system.win = "8";
+                        break;
+                    case "6.3":
+                        system.win = "8.1";
+                        break;
                     default:
                         system.win = "NT";
                         break;                
